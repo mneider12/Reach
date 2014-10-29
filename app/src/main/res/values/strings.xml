@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Reach</string>
+    <string name="action_settings">Settings</string>
+
+    // Strings describing goal options for main menu
+    <string name="goal_diet">Diet</string>
+    <string name="goal_alcohol">Alcohol</string>
+    <string name="goal_exercise">Exercise</string>
+
+</resources>

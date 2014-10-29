@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    // String array for main list view.
+    <string-array name="goal_entries">
+        <item>@string/goal_diet</item>
+        <item>@string/goal_alcohol</item>
+        <item>@string/goal_exercise</item>
+    </string-array>
+
+    
+    
+    
+</resources>
