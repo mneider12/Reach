@@ -2,7 +2,7 @@
 <resources>
 
     // String array for main list view.
-    <string-array name="goal_entries">
+    <string-array name="goals">
         <item>@string/goal_diet</item>
         <item>@string/goal_alcohol</item>
         <item>@string/goal_exercise</item>
